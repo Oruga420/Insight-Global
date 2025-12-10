@@ -1,0 +1,1 @@
+uses agents.md for instructions use Insight Global_Resume for the resume
