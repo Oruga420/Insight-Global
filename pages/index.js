@@ -236,7 +236,6 @@ export default function Home() {
               <button className="pdf-button" onClick={handleDownloadPdf}>
                 ⬇ Download PDF
               </button>
-              <div className="note">Exports what you see on screen (under 2 MB).</div>
             </div>
             <div className="contact-card">
               <h3>Contact</h3>
